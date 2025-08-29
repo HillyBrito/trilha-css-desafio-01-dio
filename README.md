@@ -14,7 +14,8 @@ Será colocado em prática tudo que foi aprendido sobre CSS, desde as propriedad
 Resultado final
 Acesse o resultado da Landing Page construída a partir desse desafio clicando no link abaixo:
 
-Clique aqui para conferir o projeto finalizado!
+[Clique aqui](https://hillybrito.github.io/trilha-css-desafio-01-dio/)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HillyBrito)
